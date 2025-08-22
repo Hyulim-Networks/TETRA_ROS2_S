@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/parallels/tetra_ws/install/interfaces/include/**",
+        "/home/parallels/ardu_ws/install/sdformat_urdf/include/**",
+        "/home/parallels/ardu_ws/install/ros_ign_interfaces/include/**",
+        "/home/parallels/ardu_ws/install/ros_gz_sim/include/**",
+        "/home/parallels/ardu_ws/install/ros_gz_bridge/include/**",
+        "/home/parallels/ardu_ws/install/ros_gz_interfaces/include/**",
+        "/home/parallels/ardu_ws/install/micro_ros_agent/include/**",
+        "/home/parallels/ardu_ws/install/ardupilot_msgs/include/**",
+        "/home/parallels/ros2_ws/install/virtual_wall/include/**",
+        "/home/parallels/ros2_ws/install/usb_cam/include/**",
+        "/home/parallels/ros2_ws/install/sick_scan_xd/include/**",
+        "/home/parallels/ros2_ws/install/realsense2_camera/include/**",
+        "/home/parallels/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/parallels/ros2_ws/install/interfaces/include/**",
+        "/home/parallels/ros2_ws/install/herkulex/include/**",
+        "/home/parallels/ros2_ws/install/cyglidar_d1_ros2/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/parallels/tetra_ws/src/tetra/include/**",
+        "/home/parallels/tetra_ws/src/tetra_ble/include/**",
+        "/home/parallels/tetra_ws/src/tetra_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

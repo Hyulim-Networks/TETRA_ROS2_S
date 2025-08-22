@@ -1,0 +1,10 @@
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/uninstall.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/tetra_uninstall.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/tetra.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/test.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/edit_cache.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/rebuild_cache.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/list_install_components.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/install.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/install/local.dir
+/home/tetra/ros2_ws/src/tetra/build/CMakeFiles/install/strip.dir

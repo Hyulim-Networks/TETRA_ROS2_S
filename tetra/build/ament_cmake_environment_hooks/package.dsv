@@ -1,0 +1,4 @@
+source;share/tetra/local_setup.bash
+source;share/tetra/local_setup.dsv
+source;share/tetra/local_setup.sh
+source;share/tetra/local_setup.zsh
